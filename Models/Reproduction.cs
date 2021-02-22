@@ -10,8 +10,6 @@ namespace PlanetZooApi.Models
     public class Reproduction
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int reproductionId { get; set; }
         public int maturity { get; set; }
         public float incubation { get; set; }
         public int interbirth { get; set; }

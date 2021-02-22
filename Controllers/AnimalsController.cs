@@ -24,7 +24,13 @@ namespace PlanetZooApi.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Animal>>> GetAnimals()
         {
-            return await _context.Animals.ToListAsync();
+            var animalItems = await _context.Animals
+                .Include(d => d.social)
+                .Include(d => d.reproduction)
+                .Include(d => d.habitat)
+                .Include(d => d.habitat.biomes)
+                .Include(d => d.shared_habitat).ToListAsync();
+            return Ok(animalItems);
         }
 
         // GET: api/Animals/5

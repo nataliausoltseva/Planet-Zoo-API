@@ -10,8 +10,6 @@ namespace PlanetZooApi.Models
     public class SharedHabitat
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int sharedHabitatId { get; set; }
         public string animal { get; set; }
     }
 }

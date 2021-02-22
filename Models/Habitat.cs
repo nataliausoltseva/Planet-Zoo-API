@@ -10,8 +10,6 @@ namespace PlanetZooApi.Models
     public class Habitat
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int habitatId { get; set; }
         public string land_area { get; set; }
         public string land_area_for_additional_animal { get; set; }
         public string water_area { get; set; }

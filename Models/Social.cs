@@ -10,8 +10,6 @@ namespace PlanetZooApi.Models
     public class Social
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int socialId { get; set; }
         public string group_size { get; set; }
         public string male { get; set; }
         public string female { get; set; }
