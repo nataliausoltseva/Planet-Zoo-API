@@ -1,0 +1,2975 @@
+[
+  {
+    "name": "Blood Scent Marker",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Cuviers Dwarf Caiman"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "West African Lion"
+      }
+    ]
+  },
+  {
+    "name": "Bobbin Enrichment",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Bobbin Drum",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Water Jet",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Giant Otter"
+      },
+      {
+        "species": "King Penguin"
+      }
+    ]
+  },
+  {
+    "name": "Cardboard Box",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "West African Lion"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Chew Toy",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      }
+    ]
+  },
+  {
+    "name": "Small Ball Colourful",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Aldabra Giant Tortoise"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Cuviers Dwarf Caiman"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Ostrich"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Galapagos Giant Tortoise"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Giant Otter"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Southern Cassowary"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Fire Hose Ball",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "West African Lion"
+      }
+    ]
+  },
+  {
+    "name": "Gift Box",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "West African Lion"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Grab Ball",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Bacterian Camel"
+      },
+      {
+        "species": "Black Wildebeest"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Dall Sheep"
+      },
+      {
+        "species": "Gemsbok"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Llama"
+      },
+      {
+        "species": "Nyala"
+      },
+      {
+        "species": "Plains Zebra"
+      },
+      {
+        "species": "Pronghorn Antelope"
+      },
+      {
+        "species": "Reindeer"
+      },
+      {
+        "species": "Sable Antelope"
+      },
+      {
+        "species": "Springbok"
+      },
+      {
+        "species": "Thomson's Gazelle"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Gyro",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Pygmy Hippo"
+      }
+    ]
+  },
+  {
+    "name": "Herb Scent Marker",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "Aldabra Giant Tortoise"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Bacterian Camel"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Black Wildebeest"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Ostrich"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Dall Sheep"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Galapagos Giant Tortoise"
+      },
+      {
+        "species": "Gemsbok"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Greater Flamingo"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Peafowl"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Koala"
+      },
+      {
+        "species": "Llama"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Plains Zebra"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Springbok"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Reindeer"
+      },
+      {
+        "species": "Sable Antelope"
+      },
+      {
+        "species": "Southern Cassowary"
+      },
+      {
+        "species": "Pronghorn Antelope"
+      },
+      {
+        "species": "Thomson's Gazelle"
+      }
+    ]
+  },
+  {
+    "name": "Block of Ice",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Bacterian Camel"
+      },
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Llama"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Large Ball",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Black Wildebeest"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Grey Seal"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Reindeer"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "West African Lion"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Large Snow Ball",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Black Wildebeest"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Grey Seal"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Reindeer"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "West African Lion"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Mobile",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Common Ostrich"
+      },
+      {
+        "species": "Greater Flamingo"
+      },
+      {
+        "species": "Indian Peafowl"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Koala"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Southern Cassowary"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Mud Bath",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Cuviers Dwarf Caiman"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      }
+    ]
+  },
+  {
+    "name": "Musical Keyboard",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Plant Screen",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Nyala"
+      },
+      {
+        "species": "Okapi"
+      },
+      {
+        "species": "Plains Zebra"
+      },
+      {
+        "species": "Pygmy Hippo"
+      }
+    ]
+  },
+  {
+    "name": "Prey Scented Sack",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "West African Lion"
+      }
+    ]
+  },
+  {
+    "name": "Rubbing Pad",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "West African Lion"
+      }
+    ]
+  },
+  {
+    "name": "Rubbing Pillar",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Bacterian Camel"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Black Wildebeest"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Dall Sheep"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Gemsbok"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Llama"
+      },
+      {
+        "species": "Nyala"
+      },
+      {
+        "species": "Okapi"
+      },
+      {
+        "species": "Plains Zebra"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Pronghorn Antelope"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Reindeer"
+      },
+      {
+        "species": "Reticulated Giraffe"
+      },
+      {
+        "species": "Sable Antelope"
+      },
+      {
+        "species": "Springbok"
+      },
+      {
+        "species": "Thomson's Gazelle"
+      }
+    ]
+  },
+  {
+    "name": "Scratching Post",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "West African Lion"
+      }
+    ]
+  },
+  {
+    "name": "Skittle",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Grey Seal"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Reindeer"
+      }
+    ]
+  },
+  {
+    "name": "Small Ball",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Aldabra Giant Tortoise"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Ostrich"
+      },
+      {
+        "species": "Cuviers Dwarf Caiman"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Galapagos Giant Tortoise"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Giant Otter"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Southern Cassowary"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Small Ice Ball",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Aldabra Giant Tortoise"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Ostrich"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Galapagos Giant Tortoise"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Southern Cassowary"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Snowman Skittle",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Grey Seal"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Reindeer"
+      }
+    ]
+  },
+  {
+    "name": "Sprinkler",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Aldabra Giant Tortoise"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Ostrich"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Cuviers Dwarf Caiman"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Galapagos Giant Tortoise"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Giant Otter"
+      },
+      {
+        "species": "Greater Flamingo"
+      },
+      {
+        "species": "Grey Seal"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Peafowl"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "King Penguin"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Okapi"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Reticulated Giraffe"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Southern Cassowary"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "West African Lion"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Tug Rope",
+    "cost": "300",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Dingo"
+      }
+    ]
+  },
+  {
+    "name": "Tyre",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Large Tyre",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      }
+    ]
+  },
+  {
+    "name": "Water Jet",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Cuviers Dwarf Caiman"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Giant Otter"
+      },
+      {
+        "species": "King Penguin"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      }
+    ]
+  },
+  {
+    "name": "Water Pool",
+    "cost": "500",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Indian Elephant"
+      }
+    ]
+  },
+  {
+    "name": "Waterfall and Metal Frame",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "Greater Flamingo"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Pygmy Hippo"
+      }
+    ]
+  },
+  {
+    "name": "Wind Chimes",
+    "cost": "100",
+    "type": "toy",
+    "animals": [
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Giant Pand"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Koala"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Red Panda"
+      }
+    ]
+  },
+  {
+    "name": "Bamboo Feeder",
+    "cost": "300",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      }
+    ]
+  },
+  {
+    "name": "Small Barrel Feeder",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Bacterian Camel"
+      },
+      {
+        "species": "Black Wildebeest"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Dall Sheep"
+      },
+      {
+        "species": "Gemsbok"
+      },
+      {
+        "species": "Llama"
+      },
+      {
+        "species": "Nyala"
+      },
+      {
+        "species": "Plains Zebra"
+      },
+      {
+        "species": "Pronghorn Antelope"
+      },
+      {
+        "species": "Sable Antelope"
+      },
+      {
+        "species": "Springbok"
+      },
+      {
+        "species": "Thomson's Gazelle"
+      }
+    ]
+  },
+  {
+    "name": "Large Barrel Feeder",
+    "cost": "300",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Reindeer"
+      }
+    ]
+  },
+  {
+    "name": "Hanging Barrel Feeder",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Okapi"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Red Kangaroo"
+      }
+    ]
+  },
+  {
+    "name": "Block of Frozen Fruit",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Aldabra Giant Tortoise"
+      },
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Galapagos Giant Tortoise"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Dog Ball",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Aldabra Giant Tortoise"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Galapagos Giant Tortoise"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      }
+    ]
+  },
+  {
+    "name": "Eucalyptus Tree Feeder",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Koala"
+      }
+    ]
+  },
+  {
+    "name": "Small Fixed Roller Feeder",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Western Chimpanzee"
+      }
+    ]
+  },
+  {
+    "name": "Large Fixed Roller Feeder",
+    "cost": "500",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Forage Box",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Ostrich"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Indian Peafowl"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Southern Cassowary"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Forage Pool",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Greater Flamingo"
+      }
+    ]
+  },
+  {
+    "name": "Frozen Blood Pumpkin",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Cuviers Dwarf Caiman"
+      },
+      {
+        "species": "Gharial"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "West African Lion"
+      }
+    ]
+  },
+  {
+    "name": "Fruit Spike Tree",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Aldabra Giant Tortoise"
+      },
+      {
+        "species": "Baird's Tapir"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Common Warthog"
+      },
+      {
+        "species": "Galapagos Giant Tortoise"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      }
+    ]
+  },
+  {
+    "name": "Grazing Ball Feeder",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Bacterian Camel"
+      },
+      {
+        "species": "Black Wildebeest"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Dall Sheep"
+      },
+      {
+        "species": "Gemsbok"
+      },
+      {
+        "species": "Llama"
+      },
+      {
+        "species": "Nyala"
+      },
+      {
+        "species": "Plains Zebra"
+      },
+      {
+        "species": "Pronghorn Antelope"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Reindeer"
+      },
+      {
+        "species": "Sable Antelope"
+      },
+      {
+        "species": "Springbok"
+      },
+      {
+        "species": "Thomson's Gazelle"
+      }
+    ]
+  },
+  {
+    "name": "Hanging Grazer Feeder",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Buffalo"
+      },
+      {
+        "species": "American Bison"
+      },
+      {
+        "species": "Bacterian Camel"
+      },
+      {
+        "species": "Black Wildebeest"
+      },
+      {
+        "species": "Bongo"
+      },
+      {
+        "species": "Dall Sheep"
+      },
+      {
+        "species": "Gemsbok"
+      },
+      {
+        "species": "Hippopotamus"
+      },
+      {
+        "species": "Indian Rhinoceros"
+      },
+      {
+        "species": "Llama"
+      },
+      {
+        "species": "Nyala"
+      },
+      {
+        "species": "Plains Zebra"
+      },
+      {
+        "species": "Pronghorn Antelope"
+      },
+      {
+        "species": "Pygmy Hippo"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Reindeer"
+      },
+      {
+        "species": "Sable Antelope"
+      },
+      {
+        "species": "Springbok"
+      },
+      {
+        "species": "Thomson's Gazelle"
+      }
+    ]
+  },
+  {
+    "name": "Pinata",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      },
+      {
+        "species": "West African Lion"
+      }
+    ]
+  },
+  {
+    "name": "Restraint Feeder",
+    "cost": "500",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Bengal Tiger"
+      },
+      {
+        "species": "Komodo Dragon"
+      },
+      {
+        "species": "Nile Monitor"
+      },
+      {
+        "species": "Saltwater Crocodile"
+      },
+      {
+        "species": "Siberian Tiger"
+      },
+      {
+        "species": "West African Lion"
+      }
+    ]
+  },
+  {
+    "name": "Rotation Line Feeder",
+    "cost": "300",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Wild Dog"
+      },
+      {
+        "species": "Arctic Wolf"
+      },
+      {
+        "species": "Cheetah"
+      },
+      {
+        "species": "Dingo"
+      },
+      {
+        "species": "Jaguar"
+      },
+      {
+        "species": "Snow Leopard"
+      },
+      {
+        "species": "Spotted Hyena"
+      },
+      {
+        "species": "Timber Wolf"
+      }
+    ]
+  },
+  {
+    "name": "Slow Feeder",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Common Ostrich"
+      },
+      {
+        "species": "Giant Anteater"
+      },
+      {
+        "species": "Indian Peafowl"
+      },
+      {
+        "species": "Southern Cassowary"
+      }
+    ]
+  },
+  {
+    "name": "Tree Forager",
+    "cost": "350",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Colombian White-Faced Capuchin Monkey"
+      },
+      {
+        "species": "Japanese Macaque"
+      },
+      {
+        "species": "Mandrill"
+      },
+      {
+        "species": "Red Kangaroo"
+      },
+      {
+        "species": "Red Ruffed Lemur"
+      },
+      {
+        "species": "Ring Tailed Lemur"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Suspended High Grazer Feeder",
+    "cost": "500",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Reticulated Giraffe"
+      }
+    ]
+  },
+  {
+    "name": "Termite Mound",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Aardvark"
+      },
+      {
+        "species": "Chinese Pangolin"
+      },
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Giant Anteater"
+      }
+    ]
+  },
+  {
+    "name": "Toy Puzzle Feeder",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Tree Forager",
+    "cost": "100",
+    "type": "food",
+    "animals": [
+      {
+        "species": "Bonobo"
+      },
+      {
+        "species": "Bornean Orangutan"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Polar Bear"
+      },
+      {
+        "species": "Red Panda"
+      },
+      {
+        "species": "Western Chimpanzee"
+      },
+      {
+        "species": "Western Lowland Gorilla"
+      }
+    ]
+  },
+  {
+    "name": "Tree Scatter Feeder",
+    "cost": "500",
+    "type": "food",
+    "animals": [
+      {
+        "species": "African Elephant"
+      },
+      {
+        "species": "Formosan Black Bear"
+      },
+      {
+        "species": "Giant Panda"
+      },
+      {
+        "species": "Himalayan Brown Bear"
+      },
+      {
+        "species": "Grizzly Bear"
+      },
+      {
+        "species": "Indian Elephant"
+      },
+      {
+        "species": "Polar Bear"
+      }
+    ]
+  },
+  {
+    "name": "Basking Lamp",
+    "cost": "100",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Boa Constrictor"
+      },
+      {
+        "species": "Brazilian Wandering Spider"
+      },
+      {
+        "species": "Common Death Adder"
+      },
+      {
+        "species": "Diamondback Terrapin"
+      },
+      {
+        "species": "Eastern Blue Tongued Lizard"
+      },
+      {
+        "species": "Gila Monster"
+      },
+      {
+        "species": "Lesser Antillean Iguana"
+      },
+      {
+        "species": "Green Iguana"
+      },
+      {
+        "species": "Puff Adder"
+      },
+      {
+        "species": "Western Diamondback Rattlesnake"
+      },
+      {
+        "species": "Yellow Anaconda"
+      }
+    ]
+  },
+  {
+    "name": "Camouflage Ground",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Common Death Adder"
+      },
+      {
+        "species": "Eastern Brown Snake"
+      },
+      {
+        "species": "Puff Adder"
+      }
+    ]
+  },
+  {
+    "name": "Dry Log",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Diamondback Terrapin"
+      }
+    ]
+  },
+  {
+    "name": "Fallen Tree",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Eastern Blue Tongued Lizard"
+      },
+      {
+        "species": "Eastern Brown Snake"
+      },
+      {
+        "species": "Giant Desert Hairy Scorpion"
+      },
+      {
+        "species": "Gila Monster"
+      },
+      {
+        "species": "Western Diamondback Rattlesnake"
+      }
+    ]
+  },
+  {
+    "name": "Hiding Place",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Eastern Blue Tongued Lizard"
+      },
+      {
+        "species": "Giant Desert Hairy Scorpion"
+      },
+      {
+        "species": "Gila Monster"
+      },
+      {
+        "species": "Western Diamondback Rattlesnake"
+      }
+    ]
+  },
+  {
+    "name": "Hollow Log",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Amazonian Giant Centipede"
+      },
+      {
+        "species": "Brazilian Salmon Pink Tarantula"
+      },
+      {
+        "species": "Brazilian Wandering Spider"
+      },
+      {
+        "species": "Giant Burrowing Cockroach"
+      },
+      {
+        "species": "Giant Forest Scorpion"
+      },
+      {
+        "species": "Goliath Beetle"
+      },
+      {
+        "species": "Goliath Frog"
+      },
+      {
+        "species": "Mexican Red Knee Tarantula"
+      },
+      {
+        "species": "Titan Beetle"
+      }
+    ]
+  },
+  {
+    "name": "Large Rock",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Common Death Adder"
+      },
+      {
+        "species": "Diamondback Terrapin"
+      },
+      {
+        "species": "Eastern Brown Snake"
+      },
+      {
+        "species": "Giant Desert Hairy Scorpion"
+      },
+      {
+        "species": "Gila Monster"
+      },
+      {
+        "species": "Puff Adder"
+      }
+    ]
+  },
+  {
+    "name": "Leaf Litter",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Brazilian Salmon Pink Tarantula"
+      },
+      {
+        "species": "Giant Forest Scorpion"
+      },
+      {
+        "species": "Giant Burrowing Cockroach"
+      },
+      {
+        "species": "Golden Poison Frog"
+      },
+      {
+        "species": "Goliath Beetle"
+      },
+      {
+        "species": "Goliath Birdeater"
+      },
+      {
+        "species": "Lehmann's Poison Frog"
+      },
+      {
+        "species": "Red Eyed Tree Frog"
+      },
+      {
+        "species": "Mexican Red Knee Tarantula"
+      },
+      {
+        "species": "Titan Beetle"
+      }
+    ]
+  },
+  {
+    "name": "Long Wide Trunk",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Amazonian Giant Centipede"
+      },
+      {
+        "species": "Boa Constrictor"
+      },
+      {
+        "species": "Brazilian Wandering Spider"
+      },
+      {
+        "species": "Giant Forest Scorpion"
+      },
+      {
+        "species": "Giant Tiger Land Snail"
+      },
+      {
+        "species": "Green Iguana"
+      },
+      {
+        "species": "Lesser Antillean Iguana"
+      },
+      {
+        "species": "Yellow Anaconda"
+      }
+    ]
+  },
+  {
+    "name": "Mangrove Root",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Diamondback Terrapin"
+      }
+    ]
+  },
+  {
+    "name": "Mister",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Giant Tiger Land Snail"
+      },
+      {
+        "species": "Golden Poison Frog"
+      },
+      {
+        "species": "Goliath Frog"
+      },
+      {
+        "species": "Lehmann's Poison Frog"
+      },
+      {
+        "species": "Red Eyed Tree Frog"
+      }
+    ]
+  },
+  {
+    "name": "Mossy Rock",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Green Iguana"
+      },
+      {
+        "species": "Lesser Antillean Iguana"
+      }
+    ]
+  },
+  {
+    "name": "Rock Pile",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Amazonian Giant Centipede"
+      },
+      {
+        "species": "Giant Tiger Land Snail"
+      }
+    ]
+  },
+  {
+    "name": "Submerged Log",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Diamondback Terrapin"
+      }
+    ]
+  },
+  {
+    "name": "Tropical Plant",
+    "cost": "Uknown",
+    "type": "exhibit",
+    "animals": [
+      {
+        "species": "Boa Constrictor"
+      },
+      {
+        "species": "Brazilian Salmon Pink Tarantula"
+      },
+      {
+        "species": "Giant Burrowing Cockroach"
+      },
+      {
+        "species": "Golden Poison Frog"
+      },
+      {
+        "species": "Goliath Beetle"
+      },
+      {
+        "species": "Goliath Birdeater"
+      },
+      {
+        "species": "Goliath Frog"
+      },
+      {
+        "species": "Lehmann's Poison Frog"
+      },
+      {
+        "species": "Red Eyed Tree Frog"
+      },
+      {
+        "species": "Mexican Red Knee Tarantula"
+      },
+      {
+        "species": "Titan Beetle"
+      },
+      {
+        "species": "Yellow Anaconda"
+      }
+    ]
+  }
+]

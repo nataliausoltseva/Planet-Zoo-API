@@ -10,8 +10,8 @@ namespace PlanetZooApi.Models
     public class Reproduction
     {
         [Key]
-        public int maturity { get; set; }
-        public float incubation { get; set; }
-        public int interbirth { get; set; }
+        public string maturity { get; set; }
+        public string incubation { get; set; }
+        public float interbirth { get; set; }
     }
 }

@@ -15,6 +15,8 @@ namespace PlanetZooApi.Models
         public DbSet<Reproduction> Reproductions { get; set; }
         public DbSet<SharedHabitat> SharedHabitats { get; set; }
         public DbSet<Social> Socials { get; set; }
+        public DbSet<HabitatEnrichment> HabitatEnrichments { get; set; }
+        public DbSet<Animals> HabitatAnimals { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Animal>()
