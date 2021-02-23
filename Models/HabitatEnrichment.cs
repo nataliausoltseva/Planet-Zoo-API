@@ -8,6 +8,7 @@ namespace PlanetZooApi.Models
         [Key]
         public string name { get; set; }
         public string cost { get; set; }
+        public string type { get; set; }
         public ICollection<Animals> animals { get; set; }
     }
 }

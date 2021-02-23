@@ -15,8 +15,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "330.0",
       "land_area_for_additional_animal": "60",
       "water_area": "0",
@@ -55,8 +55,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "NT",
-    "habbitat": {
+    "conservation_status": "NT",
+    "habitat": {
       "land_area": "420.0",
       "land_area_for_additional_animal": "90",
       "water_area": "20",
@@ -119,8 +119,8 @@
       "interbirth": 9
     },
     "continents": "Africa",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "2151",
       "land_area_for_additional_animal": "667",
       "water_area": "148",
@@ -159,8 +159,8 @@
       "interbirth": 1.17
     },
     "continents": "Africa",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "1162",
       "land_area_for_additional_animal": "92",
       "water_area": "0",
@@ -199,8 +199,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "230",
       "land_area_for_additional_animal": "5",
       "water_area": "0",
@@ -236,8 +236,8 @@
       "interbirth": 0.17
     },
     "continents": "South America",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -276,8 +276,8 @@
       "interbirth": 1
     },
     "continents": "North America",
-    "conversation_status": "NT",
-    "habbitat": {
+    "conservation_status": "NT",
+    "habitat": {
       "land_area": "420",
       "land_area_for_additional_animal": "90",
       "water_area": "0",
@@ -316,8 +316,8 @@
       "interbirth": 1
     },
     "continents": "North America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "1162",
       "land_area_for_additional_animal": "92",
       "water_area": "0",
@@ -356,8 +356,8 @@
       "interbirth": 2
     },
     "continents": "Asia",
-    "conversation_status": "DM",
-    "habbitat": {
+    "conservation_status": "DM",
+    "habitat": {
       "land_area": "650",
       "land_area_for_additional_animal": "100",
       "water_area": "0",
@@ -396,8 +396,8 @@
       "interbirth": 2
     },
     "continents": "South America, Central America",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "430",
       "land_area_for_additional_animal": "56",
       "water_area": "37",
@@ -445,8 +445,8 @@
       "interbirth": 3
     },
     "continents": "Asia",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "705",
       "land_area_for_additional_animal": "111",
       "water_area": "0",
@@ -488,8 +488,8 @@
       "interbirth": 1
     },
     "continents": "Africa",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "410",
       "land_area_for_additional_animal": "40",
       "water_area": "0",
@@ -549,8 +549,8 @@
       "interbirth": 2
     },
     "continents": "South America, Central America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -586,8 +586,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "NT",
-    "habbitat": {
+    "conservation_status": "NT",
+    "habitat": {
       "land_area": "240",
       "land_area_for_additional_animal": "30",
       "water_area": "0",
@@ -623,8 +623,8 @@
       "interbirth": 5
     },
     "continents": "Africa",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "780",
       "land_area_for_additional_animal": "50",
       "water_area": "0",
@@ -660,8 +660,8 @@
       "interbirth": 8
     },
     "continents": "Asia",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "780",
       "land_area_for_additional_animal": "50",
       "water_area": "0",
@@ -697,8 +697,8 @@
       "interbirth": 0.917
     },
     "continents": "South America",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -734,8 +734,8 @@
       "interbirth": 0.917
     },
     "continents": "South America",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -771,8 +771,8 @@
       "interbirth": 1.583
     },
     "continents": "Africa",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "705",
       "land_area_for_additional_animal": "111",
       "water_area": "0",
@@ -811,8 +811,8 @@
       "interbirth": 1
     },
     "continents": "Asia",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "182",
       "land_area_for_additional_animal": "16",
       "water_area": "0",
@@ -851,8 +851,8 @@
       "interbirth": 2
     },
     "continents": "South America, North America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "210",
       "land_area_for_additional_animal": "8",
       "water_area": "0",
@@ -897,8 +897,8 @@
       "interbirth": 1.5
     },
     "continents": "Oceania",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -934,8 +934,8 @@
       "interbirth": 1.083
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "675",
       "land_area_for_additional_animal": "75",
       "water_area": "0",
@@ -998,8 +998,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "290",
       "land_area_for_additional_animal": "10",
       "water_area": "0",
@@ -1062,8 +1062,8 @@
       "interbirth": 1
     },
     "continents": "South America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "182",
       "land_area_for_additional_animal": "18",
       "water_area": "79",
@@ -1108,8 +1108,8 @@
       "interbirth": 1
     },
     "continents": "North America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "425",
       "land_area_for_additional_animal": "55",
       "water_area": "0",
@@ -1148,8 +1148,8 @@
       "interbirth": 0.75
     },
     "continents": "North America",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1188,8 +1188,8 @@
       "interbirth": 1
     },
     "continents": "Oceania",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "1162",
       "land_area_for_additional_animal": "92",
       "water_area": "0",
@@ -1228,8 +1228,8 @@
       "interbirth": 2
     },
     "continents": "Oceania",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1271,8 +1271,8 @@
       "interbirth": 0.75
     },
     "continents": "Oceania",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1314,8 +1314,8 @@
       "interbirth": 2
     },
     "continents": "Asia",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "950",
       "land_area_for_additional_animal": "140",
       "water_area": "0",
@@ -1357,8 +1357,8 @@
       "interbirth": 2
     },
     "continents": "South America",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "230",
       "land_area_for_additional_animal": "5",
       "water_area": "0",
@@ -1394,8 +1394,8 @@
       "interbirth": 0.75
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "270",
       "land_area_for_additional_animal": "40",
       "water_area": "0",
@@ -1431,8 +1431,8 @@
       "interbirth": 2
     },
     "continents": "Asia",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "370",
       "land_area_for_additional_animal": "16",
       "water_area": "300",
@@ -1474,8 +1474,8 @@
       "interbirth": 1
     },
     "continents": "South America, North America",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "660",
       "land_area_for_additional_animal": "60",
       "water_area": "0",
@@ -1520,8 +1520,8 @@
       "interbirth": 0.25
     },
     "continents": "Oecania",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1560,8 +1560,8 @@
       "interbirth": 0.25
     },
     "continents": "North America",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1597,8 +1597,8 @@
       "interbirth": 0.25
     },
     "continents": "Asia",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1634,8 +1634,8 @@
       "interbirth": 1
     },
     "continents": "South America",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "360",
       "land_area_for_additional_animal": "60",
       "water_area": "144",
@@ -1677,8 +1677,8 @@
       "interbirth": 2
     },
     "continents": "Asia",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "900",
       "land_area_for_additional_animal": "150",
       "water_area": "0",
@@ -1717,8 +1717,8 @@
       "interbirth": 3
     },
     "continents": "Africa",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1760,8 +1760,8 @@
       "interbirth": 0.25
     },
     "continents": "North America",
-    "conversation_status": "NT",
-    "habbitat": {
+    "conservation_status": "NT",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1797,8 +1797,8 @@
       "interbirth": 0.5
     },
     "continents": "South America",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1834,8 +1834,8 @@
       "interbirth": 10
     },
     "continents": "Africa",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1871,8 +1871,8 @@
       "interbirth": 0.83
     },
     "continents": "South America",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1908,8 +1908,8 @@
       "interbirth": 0.75
     },
     "continents": "Africa",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -1948,8 +1948,8 @@
       "interbirth": 1
     },
     "continents": "Africa, Asia, Europe",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "300",
       "land_area_for_additional_animal": "9",
       "water_area": "125",
@@ -1994,8 +1994,8 @@
       "interbirth": 0.67
     },
     "continents": "South America, Central America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2034,8 +2034,8 @@
       "interbirth": 1
     },
     "continents": "Europe, North America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "200",
       "land_area_for_additional_animal": "12",
       "water_area": "300",
@@ -2077,8 +2077,8 @@
       "interbirth": 5
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "750",
       "land_area_for_additional_animal": "50",
       "water_area": "0",
@@ -2120,8 +2120,8 @@
       "interbirth": 4
     },
     "continents": "Asia",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "550",
       "land_area_for_additional_animal": "40",
       "water_area": "0",
@@ -2161,8 +2161,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "1004",
       "land_area_for_additional_animal": "502",
       "water_area": "1003",
@@ -2201,8 +2201,8 @@
       "interbirth": 8
     },
     "continents": "Asia",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "882",
       "land_area_for_additional_animal": "204",
       "water_area": "67",
@@ -2244,8 +2244,8 @@
       "interbirth": 1
     },
     "continents": "Asia",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "312",
       "land_area_for_additional_animal": "12",
       "water_area": "0",
@@ -2287,8 +2287,8 @@
       "interbirth": 5
     },
     "continents": "Asia",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "1000",
       "land_area_for_additional_animal": "250",
       "water_area": "37",
@@ -2327,8 +2327,8 @@
       "interbirth": 2
     },
     "continents": "South America, North America",
-    "conversation_status": "NT",
-    "habbitat": {
+    "conservation_status": "NT",
+    "habitat": {
       "land_area": "705",
       "land_area_for_additional_animal": "111",
       "water_area": "0",
@@ -2370,8 +2370,8 @@
       "interbirth": 2
     },
     "continents": "Asia",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "300",
       "land_area_for_additional_animal": "6",
       "water_area": "0",
@@ -2410,8 +2410,8 @@
       "interbirth": 1
     },
     "continents": "Antarctica, South America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "200",
       "land_area_for_additional_animal": "144",
       "water_area": "0",
@@ -2450,8 +2450,8 @@
       "interbirth": 1
     },
     "continents": "Oceania",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "180",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2493,8 +2493,8 @@
       "interbirth": 2
     },
     "continents": "Asia",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "600",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2533,8 +2533,8 @@
       "interbirth": 0.92
     },
     "continents": "South America",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2570,8 +2570,8 @@
       "interbirth": 0.75
     },
     "continents": "South America, Central America",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2610,8 +2610,8 @@
       "interbirth": 2
     },
     "continents": "South America",
-    "conversation_status": "DM",
-    "habbitat": {
+    "conservation_status": "DM",
+    "habitat": {
       "land_area": "550",
       "land_area_for_additional_animal": "40",
       "water_area": "0",
@@ -2653,8 +2653,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "400",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2690,8 +2690,8 @@
       "interbirth": 0.75
     },
     "continents": "Central America",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2727,8 +2727,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "300",
       "land_area_for_additional_animal": "0",
       "water_area": "75",
@@ -2767,8 +2767,8 @@
       "interbirth": 1
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "300",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2807,8 +2807,8 @@
       "interbirth": 2
     },
     "continents": "Africa",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "1081",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2844,8 +2844,8 @@
       "interbirth": 1
     },
     "continents": "Africa",
-    "conversation_status": "NT",
-    "habbitat": {
+    "conservation_status": "NT",
+    "habitat": {
       "land_area": "510",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2905,8 +2905,8 @@
       "interbirth": 3
     },
     "continents": "North America, Europe",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "6000",
       "land_area_for_additional_animal": "4000",
       "water_area": "0",
@@ -2945,8 +2945,8 @@
       "interbirth": 1
     },
     "continents": "North America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "370",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -2988,8 +2988,8 @@
       "interbirth": 0.5
     },
     "continents": "Africa",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3025,8 +3025,8 @@
       "interbirth": 1
     },
     "continents": "Africa",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "270",
       "land_area_for_additional_animal": "0",
       "water_area": "270",
@@ -3065,8 +3065,8 @@
       "interbirth": 0.67
     },
     "continents": "Oceania",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "180",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3108,8 +3108,8 @@
       "interbirth": 1
     },
     "continents": "Asia",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "220",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3148,8 +3148,8 @@
       "interbirth": 1
     },
     "continents": "Africa",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "210",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3188,8 +3188,8 @@
       "interbirth": 0.5
     },
     "continents": "South America, North America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3225,8 +3225,8 @@
       "interbirth": 1
     },
     "continents": "Europe, North America, Russia",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "370",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3265,8 +3265,8 @@
       "interbirth": 3
     },
     "continents": "Africa",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "1306",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3332,8 +3332,8 @@
       "interbirth": 1
     },
     "continents": "Africa",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "210",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3372,8 +3372,8 @@
       "interbirth": 0.75
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "450",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3433,8 +3433,8 @@
       "interbirth": 2
     },
     "continents": "Asia, Oceania",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "210",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3473,8 +3473,8 @@
       "interbirth": 2
     },
     "continents": "Asia",
-    "conversation_status": "EN",
-    "habbitat": {
+    "conservation_status": "EN",
+    "habitat": {
       "land_area": "705",
       "land_area_for_additional_animal": "111",
       "water_area": "0",
@@ -3513,8 +3513,8 @@
       "interbirth": 2
     },
     "continents": "Asia",
-    "conversation_status": "VU",
-    "habbitat": {
+    "conservation_status": "VU",
+    "habitat": {
       "land_area": "705",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3550,8 +3550,8 @@
       "interbirth": 2
     },
     "continents": "Oceania, South East Asia",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "400",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3587,8 +3587,8 @@
       "interbirth": 1.25
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "1162",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3624,8 +3624,8 @@
       "interbirth": 1
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "425",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3688,8 +3688,8 @@
       "interbirth": 1
     },
     "continents": "Africa",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "425",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3749,8 +3749,8 @@
       "interbirth": 1
     },
     "continents": "Europe, Aisa, North America",
-    "conversation_status": "LC",
-    "habbitat": {
+    "conservation_status": "LC",
+    "habitat": {
       "land_area": "1162",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3792,8 +3792,8 @@
       "interbirth": 10
     },
     "continents": "South America",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3829,8 +3829,8 @@
       "interbirth": 3
     },
     "continents": "Africa",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "705",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3866,8 +3866,8 @@
       "interbirth": 5
     },
     "continents": "Africa",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "780",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3903,8 +3903,8 @@
       "interbirth": 0.42
     },
     "continents": "North and Central America",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
@@ -3940,8 +3940,8 @@
       "interbirth": 5
     },
     "continents": "Africa",
-    "conversation_status": "CR",
-    "habbitat": {
+    "conservation_status": "CR",
+    "habitat": {
       "land_area": "780",
       "land_area_for_additional_animal": "50",
       "water_area": "0",
@@ -3977,8 +3977,8 @@
       "interbirth": 0.5
     },
     "continents": "South America",
-    "conversation_status": "DD",
-    "habbitat": {
+    "conservation_status": "DD",
+    "habitat": {
       "land_area": "0",
       "land_area_for_additional_animal": "0",
       "water_area": "0",
